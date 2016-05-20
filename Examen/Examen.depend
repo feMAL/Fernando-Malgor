@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1463101142 source:c:\users\alumno.lab5pc03\desktop\examen\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1463091387 c:\users\alumno.lab5pc03\desktop\examen\lib.h
+
+1463182918 source:e:\utn\examan\fernando malgor\examen\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1463447308 source:f:\utn\examan\fernando malgor\examen\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1463772484 source:d:\utn\examan\fernando malgor\examen\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lib.c"
+
+1463772176 d:\utn\examan\fernando malgor\examen\lib.h
+
+1463772292 d:\utn\examan\fernando malgor\examen\lib.c
+	"lib.h"
+
